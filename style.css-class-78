@@ -1,0 +1,26 @@
+body {
+    text-align:center;
+    backgroud-color:aqua;
+}
+h1 {
+    font-family: fantasy;
+    color: aqua;
+}
+
+img {
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+h4 {
+    color: royalblue;
+    font-size: 22px;
+}
+
+button {
+    background-color: dodgerblue;
+    font-size: normal;
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+}
